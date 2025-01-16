@@ -1,0 +1,12 @@
+#+title: Digit Classifier
+
+* Prerequisites
+Create Environment
+#+begin_src shell
+conda env create -f environment.yml
+#+end_src
+
+Enter Environment
+#+begin_src shell
+conda activate digits
+#+end_src

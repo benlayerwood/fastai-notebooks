@@ -1,0 +1,17 @@
+#+title: Digit Classifier
+
+* Prerequisites
+Create Environment
+#+begin_src shell
+conda env create -f environment.yml
+#+end_src
+
+Enter Environment
+#+begin_src shell
+conda activate digits
+#+end_src
+
+Install dependencies from requirements.txt
+#+begin_src shell
+conda install --file requirements.txt
+#+end_src

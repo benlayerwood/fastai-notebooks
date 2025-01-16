@@ -1,0 +1,6 @@
+jupyter
+pandas
+ipywidgets
+matplotlib
+fastai>=2.0.0
+nbdev
